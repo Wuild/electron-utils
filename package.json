@@ -20,7 +20,5 @@
     "url": "https://github.com/Wuild/electron-utils/issues"
   },
   "homepage": "https://github.com/Wuild/electron-utils#readme",
-  "dependencies": {
-    "electron": "*"
-  }
+  "dependencies": {}
 }
