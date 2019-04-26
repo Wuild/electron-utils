@@ -1,0 +1,26 @@
+{
+  "name": "@wuild/electron-utils",
+  "version": "1.0.0",
+  "description": "Electron quick functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuild/electron-utils.git"
+  },
+  "keywords": [
+    "electron",
+    "node"
+  ],
+  "author": "Wuild",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wuild/electron-utils/issues"
+  },
+  "homepage": "https://github.com/Wuild/electron-utils#readme",
+  "dependencies": {
+    "electron": "*"
+  }
+}
