@@ -1,6 +1,6 @@
 {
   "name": "@wuild/electron-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Electron quick functions",
   "main": "index.js",
   "scripts": {
