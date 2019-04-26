@@ -2,6 +2,9 @@
 Electron quick functions  
 works in both main and renderer process
 
+## TODO
+* Write a better README
+
 ## Installation
 ```
 npm install @wuild/electron-utils
