@@ -2,6 +2,8 @@
 Electron quick functions  
 works in both main and renderer process
 
+[![npm version](https://badge.fury.io/js/%40wuild%2Felectron-utils.svg)](https://badge.fury.io/js/%40wuild%2Felectron-utils)
+
 ## TODO
 * Write a better README
 
